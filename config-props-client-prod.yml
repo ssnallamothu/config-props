@@ -1,0 +1,4 @@
+greeting: config-props-prod
+db:
+  host: localhost
+  port: 8080
